@@ -1,2 +1,2 @@
-# group6
-Our project demo can be found at: https://www.youtube.com/watch?v=VbWWGYeqOfc&feature=youtu.be
+# New Monopoly
+A new iteration of the classic Monopoly game, designed for the Software Engineering(BLG 411E) course in ITU. 
