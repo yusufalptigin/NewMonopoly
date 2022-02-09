@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.New Monopoly.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../:\Unity F Projects\New Monopoly\.idea\.idea.New Monopoly\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
